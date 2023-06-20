@@ -4,27 +4,27 @@ About Me
 Hello! I'm Hamza Wahhas, a computer science student at Western New England University. I'm passionate about coding and always excited to learn new things.
 Interests
 
-    Coding: I love working with Python and Java to solve problems and develop applications. I enjoy exploring different libraries and frameworks to enhance my coding skills.
-    Basketball: Basketball is my favorite sport, and I find it a great way to stay active and relieve stress. I enjoy playing with friends and being part of a team.
+- Coding: I love working with Python and Java to solve problems and develop applications. I enjoy exploring different libraries and frameworks to enhance my coding skills.
+- Basketball: Basketball is my favorite sport, and I find it a great way to stay active and relieve stress. I enjoy playing with friends and being part of a team.
 
 Projects
 
 Here are some of the projects I have worked on:
 
-    Transcript Manager: This project was developed using Python and involved building a transcript manager which collected student gpas and allowed the user to retrieve them, remove them and calculate average while using the appropriate data structures to improve speed
+- Transcript Manager: This project was developed using Python and involved building a transcript manager which collected student gpas and allowed the user to retrieve them, remove them and calculate average while using the appropriate data structures to improve speed
 
-    GUI Advanced Calculator: In this project, I used the Python library tkinter to create a gui calcualtor that had the ability of preforming basic calculations. This was further expanded to include a sqroot button and parentheses.
+- GUI Advanced Calculator: In this project, I used the Python library tkinter to create a gui calcualtor that had the ability of preforming basic calculations. This was further expanded to include a sqroot button and parentheses.
 
-    Lottery Game: I collaborated with a team to develop a lottery application using Java. This lottery system includes many games commonly found in a lottery machine. This includes lottoball, die, wheel and stepperwheel. This program makes use of generics in order to imrpove simplicity
-    
+- Lottery Game: I collaborated with a team to develop a lottery application using Java. This lottery system includes many games commonly found in a lottery machine. This includes lottoball, die, wheel and stepperwheel. This program makes use of generics in order to imrpove simplicity
+
 Skills
 
-    Programming Languages: Python, Java
-    Methodologies" Agile, Scrum
-    Libraries: tkinter, sklearn
-    Database: MySQL
-    Version Control: Git
-    Problem Solving: Data Structures, Software Design, Software Defevlopement
+- Programming Languages: Python, Java
+- Methodologies" Agile, Scrum
+- Libraries: tkinter, sklearn
+- Database: MySQL
+- Version Control: Git
+- Problem Solving: Data Structures, Software Design, Software Defevlopement
 
 Contact
 
