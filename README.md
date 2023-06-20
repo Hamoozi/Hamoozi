@@ -1,4 +1,4 @@
-Hamza Wahhas
+<font size = "3">Hamza Wahhas
 About Me
 
 Hello! I'm Hamza Wahhas, a computer science student at Western New England University. I'm passionate about coding and always excited to learn new things.
@@ -32,4 +32,4 @@ You can reach me via email at hamzawahhas@example.com. Feel free to connect with
 
 I'm open to collaboration and always eager to learn from others. Don't hesitate to get in touch if you have any questions or if you'd like to work on a project together.
 
-Thank you for visiting my GitHub profile!
+Thank you for visiting my GitHub profile! </font>
