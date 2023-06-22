@@ -1,5 +1,4 @@
-<font size = "3">Hamza Wahhas
-About Me
+<font size = "3">
 
 Hello! I'm Hamza Wahhas, a computer science student at Western New England University. I'm passionate about coding and always excited to learn new things.
 
