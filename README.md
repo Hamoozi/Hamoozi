@@ -16,6 +16,12 @@ Here are some of the projects I have worked on:
 
 - Lottery Game: I collaborated with a team to develop a lottery application using Java. This lottery system includes many games commonly found in a lottery machine. This includes lottoball, die, wheel and stepperwheel. This program makes use of generics in order to imrpove simplicity
 
+Future Projects
+
+Here are some projects that will be in development soon:
+
+- APIWeatherBasketball: This project uses the weather api call in order to access the weather of Amherst, MA but can also be used for other cities. With that, it checks if the weather is suitable or not to play basketball, and displays a gui canvas to do so. It will resemble a reminder that you would see on a smart phone, almost as an incentive to go play when the weather is good.
+
 Skills
 
 - Programming Languages: Python, Java
