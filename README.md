@@ -33,7 +33,7 @@ Skills
 
 Contact
 
-You can reach me via email at hamzawahhas@example.com. Feel free to connect with me on LinkedIn as well at https://www.linkedin.com/in/hamzawa/.
+You can reach me via email at hamzawahhas@gmail.com. Feel free to connect with me on LinkedIn as well at https://www.linkedin.com/in/hamzawa/.
 
 I'm open to collaboration and always eager to learn from others. Don't hesitate to get in touch if you have any questions or if you'd like to work on a project together.
 
