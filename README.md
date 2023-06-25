@@ -19,8 +19,9 @@ Here are some of the projects I have worked on:
 
 Skills
 
-- Programming Languages: Python, Java
-- Methodologies" Agile, Scrum
+- Programming Languages: Python, Java, Javascript, HTML/CS 
+- Methodologies: Agile, Scrum
+- Technologies: NodeJS, Django, Git, mySQL, React
 - Libraries: tkinter, sklearn
 - Database: MySQL
 - Version Control: Git
