@@ -1,6 +1,5 @@
-<font size = "3">
 
-Hello! I'm Hamza Wahhas, a computer science student at Western New England University. I'm passionate about coding and always excited to learn new things.
+<h1 align="center">Hello👋, I'm Hamza Wahhas!</h1>
 
 Interests
 - Coding: I love working with Python and Java to solve problems and develop applications. I enjoy exploring different libraries and frameworks to enhance my coding skills.
@@ -33,4 +32,4 @@ You can reach me via email at hamzawahhas@gmail.com. Feel free to connect with m
 
 I'm open to collaboration and always eager to learn from others. Don't hesitate to get in touch if you have any questions or if you'd like to work on a project together.
 
-Thank you for visiting my GitHub profile! </font>
+Thank you for visiting my GitHub profile! 
