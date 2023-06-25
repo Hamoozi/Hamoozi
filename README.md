@@ -1,7 +1,6 @@
 
 <h1 align="center">Hello👋, I'm Hamza Wahhas!</h1>
 
-Interests
 - Coding: I love working with Python and Java to solve problems and develop applications. I enjoy exploring different libraries and frameworks to enhance my coding skills.
 - Basketball: Basketball is my favorite sport, and I find it a great way to stay active and relieve stress. I enjoy playing with friends and being part of a team.
 
@@ -34,3 +33,9 @@ You can reach me via email at hamzawahhas@gmail.com. Feel free to connect with m
 I'm open to collaboration and always eager to learn from others. Don't hesitate to get in touch if you have any questions or if you'd like to work on a project together.
 
 Thank you for visiting my GitHub profile! 
+<div align="center">
+  <div>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamoozi&layout=compact&theme=radical&cache_seconds=300&hide_border=true&count_private=false" alt="Top Languages"/>
+    </br>
+    <sub><p align="center">⚡️ by <a target="_blank" href="https://git.io/readme-stats">git.io/readme-stats</a></p></sub>
+  <div>
