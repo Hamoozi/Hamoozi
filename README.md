@@ -27,7 +27,7 @@ Skills
 - Libraries: tkinter, sklearn
 - Database: MySQL
 - Version Control: Git
-- Problem Solving: Data Structures, Software Design, Software Defevlopement
+- Problem Solving: Data Structures, Software Design, Software Developement
 
 Contact
 
