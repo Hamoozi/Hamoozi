@@ -21,13 +21,6 @@ Here are some of the projects I have worked on:
 - [Lottery Game](https://github.com/Hamoozi/LotteryGame): I worked with a team to develop a lottery application using Java. Our program includes many games commonly found in lottery machines, such as LottoBall, Die, Wheel, and StepperWheel. We used generics to improve simplicity and readability of the code.
 Skills
 
-- Programming Languages: Python, Java, Javascript, HTML/CS 
-- Methodologies: Agile, Scrum
-- Technologies: NodeJS, Django, Git, mySQL, React
-- Libraries: tkinter, sklearn
-- Database: MySQL
-- Version Control: Git
-- Problem Solving: Data Structures, Software Design, Software Developement
 
 Contact
 
