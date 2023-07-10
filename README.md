@@ -1,8 +1,6 @@
 
 <h1 align="center">Hello👋, I'm Hamza Wahhas!</h1>
 
-Projects
-
 Here are some of the projects I have worked on:
 
 - [ChatBot](https://github.com/Hamoozi/ChatBot): I am currently developing a ChatBot using Django, JavaScript, HTML, and CSS, inspired by ChatGPT. The goal of this project is to provide users with an interactive and intelligent conversation experience in real-time.
