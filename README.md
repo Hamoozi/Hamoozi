@@ -1,9 +1,6 @@
 
 <h1 align="center">Hello👋, I'm Hamza Wahhas!</h1>
 
-- Coding: I love working with Python and Java to solve problems and develop applications. I enjoy exploring different libraries and frameworks to enhance my coding skills.
-- Basketball: Basketball is my favorite sport, and I find it a great way to stay active and relieve stress. I enjoy playing with friends and being part of a team.
-
 Projects
 
 Here are some of the projects I have worked on:
