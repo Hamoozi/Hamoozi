@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello👋, I'm Hamza Wahhas!</h1>
+<h1 align="center">Hello👋, I'm Hamza!</h1>
 
 Here are some of the projects I have worked on:
 
