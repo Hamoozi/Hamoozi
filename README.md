@@ -2,22 +2,8 @@
 
 Hello! I'm Hamza Wahhas, a computer science student at Western New England University. I'm passionate about coding and always excited to learn new things.
 
-### Interests
+I love working with Python and Java to solve problems and develop applications. I enjoy exploring different libraries and frameworks to enhance my coding skills.
 
-- **Coding:** I love working with Python and Java to solve problems and develop applications. I enjoy exploring different libraries and frameworks to enhance my coding skills.
-
-
-### Projects
-
-Here are some of the projects I have worked on:
-
-- [ChatBot](https://github.com/Hamoozi/ChatBot)
-- [TaskManagementSystem](https://github.com/Hamoozi/TaskManagementSystem)
-- [MarkovGame](https://github.com/Hamoozi/MarkovGame)
-- [InstagramClone](https://github.com/Hamoozi/InstagramClone)
-- [GUI Advanced Calculator](https://github.com/Hamoozi/GUI-Advanced-Calculator)
-- [APIWeatherBasketball](https://github.com/Hamoozi/APIWeatherBasketball)
-- [Lottery Game](https://github.com/Hamoozi/LotteryGame)
 
 ### Contact
 
