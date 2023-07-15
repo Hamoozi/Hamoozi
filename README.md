@@ -3,13 +3,13 @@
 
 Here are some of the projects I have worked on:
 
-- [ChatBot](https://github.com/Hamoozi/ChatBot): 
+- [ChatBot](https://github.com/Hamoozi/ChatBot)
 
-- [MarkovGame](https://github.com/Hamoozi/MarkovGame): 
+- [MarkovGame](https://github.com/Hamoozi/MarkovGame) 
   
-- [InstagramClone](https://github.com/Hamoozi/InstagramClone):
+- [InstagramClone](https://github.com/Hamoozi/InstagramClone)
 
-- [GUI Advanced Calculator](https://github.com/Hamoozi/GUI-Advanced-Calculator):
+- [GUI Advanced Calculator](https://github.com/Hamoozi/GUI-Advanced-Calculator)
 
 - [APIWeatherBasketball](https://github.com/Hamoozi/APIWeatherBasketball)
 
