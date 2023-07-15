@@ -6,7 +6,7 @@ Hello! I'm Hamza Wahhas, a computer science student at Western New England Unive
 
 - **Coding:** I love working with Python and Java to solve problems and develop applications. I enjoy exploring different libraries and frameworks to enhance my coding skills.
 
-- **Basketball:** Basketball is my favorite sport, and I find it a great way to stay active and relieve stress.
+- **Basketball:** I enjoy playing basketball when I have time.
 
 ### Projects
 
