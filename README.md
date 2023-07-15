@@ -3,18 +3,17 @@
 
 Here are some of the projects I have worked on:
 
-- [ChatBot](https://github.com/Hamoozi/ChatBot): I am currently developing a ChatBot using Django, JavaScript, HTML, and CSS, inspired by ChatGPT. The goal of this project is to provide users with an interactive and intelligent conversation experience in real-time.
+- [ChatBot](https://github.com/Hamoozi/ChatBot): 
 
-- [MarkovGame](https://github.com/Hamoozi/MarkovGame): This project uses Python to solve the classic grid world problem. The user can set rewards and punishments for each square to find the optimal policy. The program uses deterministic moves to emphasize the optimal path in a real-world scenario. Two different grid world sizes and two machine learning techniques are available to find the optimal policy, with detailed analysis provided.
+- [MarkovGame](https://github.com/Hamoozi/MarkovGame): 
   
-- [InstagramClone](https://github.com/Hamoozi/InstagramClone): I am currently collaborating with other students to develop an Instagram clone using Django, HTML, and CSS. Our goal is to create a full-stack application that replicates the features and functionality of Instagram.
+- [InstagramClone](https://github.com/Hamoozi/InstagramClone):
 
-- [GUI Advanced Calculator](https://github.com/Hamoozi/GUI-Advanced-Calculator): In this project, I used the Python library tkinter to create a GUI calculator capable of performing basic calculations. I expanded the functionality to include a square root button and support for parentheses.
+- [GUI Advanced Calculator](https://github.com/Hamoozi/GUI-Advanced-Calculator):
 
-- [APIWeatherBasketball](https://github.com/Hamoozi/APIWeatherBasketball): This project uses a weather API to access the weather data for Amherst, MA (or other cities). It checks if the weather is suitable for playing basketball and displays a GUI canvas as a reminder. The program resembles a smartphone reminder, encouraging users to go play when the weather is good.
+- [APIWeatherBasketball](https://github.com/Hamoozi/APIWeatherBasketball)
 
-- [Lottery Game](https://github.com/Hamoozi/LotteryGame): I worked with a team to develop a lottery application using Java. Our program includes many games commonly found in lottery machines, such as LottoBall, Die, Wheel, and StepperWheel. We used generics to improve simplicity and readability of the code.
-Skills
+- [Lottery Game](https://github.com/Hamoozi/LotteryGame)
 
 
 Contact
