@@ -1,4 +1,4 @@
-<h1 align="center">Hello👋, I'm Hamza!</h1>
+<h1 align="center">Hello, I'm Hamza!</h1>
 
 Hello! I'm Hamza Wahhas, a computer science student at Western New England University. I'm passionate about coding and always excited to learn new things.
 
