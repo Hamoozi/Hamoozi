@@ -15,8 +15,11 @@ Thank you for visiting my GitHub profile!
 
 <div align="center">
   <div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamoozi&layout=compact&theme=radical&cache_seconds=300&hide_border=true&count_private=false" alt="Top Languages"/>
+    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hamoozi&layout=compact&theme=radical&cache_seconds=300&hide_border=true&count_private=false" alt="Top Languages"/>
     </br>
     <sub><p align="center">⚡️ by <a target="_blank" href="https://git.io/readme-stats">git.io/readme-stats</a></p></sub>
   </div>
 </div>
+
+
+
