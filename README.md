@@ -3,7 +3,7 @@
 <h1 align="center">Hello! I'm Hamza👋</h1> 
 
 Computer Science Student @ Western New England University  
-📧 Email: hamzawahhas@gmail.com  
+📧 Email: hw592009@wne.edu  
 🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/hamzawa/)
 
 </br>
