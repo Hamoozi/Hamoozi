@@ -3,16 +3,8 @@
 <h1 align="center">Hello! I'm Hamza👋</h1> 
 
 Computer Science Student @ Western New England University  
-</br>
-
-<h2 align="center">Contact 📬</h2>
-
 📧 Email: hamzawahhas@gmail.com  
 🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/hamzawa/)
-
-</div>
-
-
 
 </br>
 <h2 align="center">Languages | Technologies | Frameworks | Tools</h2>
