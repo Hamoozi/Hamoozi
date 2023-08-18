@@ -1,21 +1,44 @@
-<h1 align="center">Hello, I'm Hamza!</h1>
+<div align="center">
 
-Hello! I'm Hamza Wahhas, a computer science student at Western New England University. I'm passionate about coding and always excited to learn new things.
+<h1 align="center">Hello! I'm Hamza👋</h1> 
 
-I love working with Python and Java to solve problems and develop applications. I enjoy exploring different libraries and frameworks to enhance my coding skills.
+Computer Science Student @ Western New England University  
+</br>
+
+<h1 align="center">Contact 📬</h1>
+
+📧 Email: hamzawahhas@gmail.com  
+🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/hamzawa/)
+
+</div>
 
 
-### Contact
 
-You can reach me via email at hw592009@gmail.com. Feel free to connect with me on LinkedIn as well at [https://www.linkedin.com/in/hamzawa/](https://www.linkedin.com/in/hamzawa/).
-
-I'm open to collaboration and always eager to learn from others. Don't hesitate to get in touch if you have any questions or if you'd like to work on a project together.
-
-Thank you for visiting my GitHub profile!
-
+</br>
+<h1 align="center">Languages | Technologies | Frameworks | Tools</h1>
+<p align="center">
+  </br>
+  <code><img title="Python" height="35" src="icons/python.svg"></code>
+  <code><img title="Java" height="35" src="./icons/java-icon.svg"></code>
+  <code><img title="JavaScript" height="35" src="./icons/javascript.svg"></code>
+  <code><img title="CSS" height="35" src="./icons/css.svg"></code>
+  <code><img title="HTML" height="35" src="./icons/html.svg"></code>
+  <code><img title="MySQL" height="35" src="./icons/mysql.svg"></code>
+</p>
+<p align="center">
+  </br>
+  <code><img title="VS Code" height="35" src="./icons/visualstudio_code-icon.svg"></code>
+  <code><img title="Git" height="35" src="icons/git.svg"></code>
+  <code><img title="Django" height="35" src="icons/djangoproject-icon.svg"></code>
+  <code><img title="Flask" height="35" src="icons/pocoo_flask-icon.svg"></code>
+  <code><img title="Docker" height="35" src="icons/docker-icon.svg"></code>
+  <code><img title="Eclipse" height="35" src="icons/eclipse_che-icon.svg"></code>
+</p>
+</br>
+<h1 align="center">GitHub Stats</h1>
 <div align="center">
   <div>
-    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hamoozi&layout=compact&theme=radical&cache_seconds=300&hide_border=true&count_private=false" alt="Top Languages"/>
+    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hamoozi&layout=compact&theme=react&cache_seconds=300&hide_border=true&count_private=false" alt="Top Languages"/>
     </br>
     <sub><p align="center">⚡️ by <a target="_blank" href="https://git.io/readme-stats">git.io/readme-stats</a></p></sub>
   </div>
