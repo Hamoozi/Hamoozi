@@ -5,7 +5,7 @@
 Computer Science Student @ Western New England University  
 </br>
 
-<h1 align="center">Contact 📬</h1>
+<h2 align="center">Contact 📬</h2>
 
 📧 Email: hamzawahhas@gmail.com  
 🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/hamzawa/)
@@ -15,7 +15,7 @@ Computer Science Student @ Western New England University
 
 
 </br>
-<h1 align="center">Languages | Technologies | Frameworks | Tools</h1>
+<h2 align="center">Languages | Technologies | Frameworks | Tools</h2>
 <p align="center">
   </br>
   <code><img title="Python" height="35" src="icons/python.svg"></code>
@@ -35,7 +35,7 @@ Computer Science Student @ Western New England University
   <code><img title="Eclipse" height="35" src="icons/eclipse_che-icon.svg"></code>
 </p>
 </br>
-<h1 align="center">GitHub Stats</h1>
+<h2 align="center">GitHub Stats</h2>
 <div align="center">
   <div>
     <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hamoozi&layout=compact&theme=react&cache_seconds=300&hide_border=true&count_private=false" alt="Top Languages"/>
