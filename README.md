@@ -9,7 +9,6 @@ Computer Science Student @ Western New England University
 </br>
 <h2 align="center">Languages | Technologies | Frameworks | Tools</h2>
 <p align="center">
-  </br>
   <code><img title="Python" height="35" src="icons/python.svg"></code>
   <code><img title="Java" height="35" src="./icons/java-icon.svg"></code>
   <code><img title="JavaScript" height="35" src="./icons/javascript.svg"></code>
@@ -18,7 +17,6 @@ Computer Science Student @ Western New England University
   <code><img title="MySQL" height="35" src="./icons/mysql.svg"></code>
 </p>
 <p align="center">
-  </br>
   <code><img title="VS Code" height="35" src="./icons/visualstudio_code-icon.svg"></code>
   <code><img title="Git" height="35" src="icons/git.svg"></code>
   <code><img title="Django" height="35" src="icons/djangoproject-icon.svg"></code>
