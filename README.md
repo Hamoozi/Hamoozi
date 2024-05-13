@@ -2,8 +2,7 @@
 
 <h1 align="center">Hello! I'm Hamza👋</h1> 
 
-Computer Science Student @ Western New England University  
-📧 Email: moguristhebest@gmail.com  
+Computer Science @ Western New England University  
 
 </br>
 <h2 align="center">Languages | Technologies | Frameworks | Tools</h2>
